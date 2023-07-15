@@ -1,5 +1,5 @@
 # Data-Analytics-Projects
-Welcome to the Data Analytics and Data Visualization Internship Repository! This repository contains projects related to data analytics and data visualization, completed during internships at Accenture, Cognizant, JPMorgan, and TATA.
+Welcome to the Data Analytics and Data Visualization Internship Repository! This repository contains projects related to Virtual Internship data analytics and data visualization, completed during internships at Accenture, Cognizant, JPMorgan, and TATA.
 
 ## Description
 This repository serves as a showcase for interns who have worked on various data analytics and data visualization projects. It aims to provide an overview of the skills and knowledge gained during the internships and demonstrate the interns' abilities to analyze and visualize data effectively.
